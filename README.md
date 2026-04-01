@@ -1,4 +1,4 @@
-# Hi, I'm Paranthagan S 👋
+# Hi, I'm Paranthagan S
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=IT+Undergrad+at+SSNCE;AI%2FML+Enthusiast;Hackathon+Innovator" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="justify">
 I am currently pursuing a B.Tech in Information Technology at SSN College of Engineering, with a strong foundation in Python and SQL. I am passionate about Artificial Intelligence, Machine Learning, and Software Development. My current areas of interest include Deep Learning and Generative AI. Over the course of my studies, I have gained knowledge in Database Management Systems, Data Structures, Machine Learning, Operating Systems, Computer Networking, and Software Engineering. I have actively participated in 15+ national level hackathons, focusing on rapid prototyping and real world problem solving.
@@ -14,7 +14,7 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paranthagan-s-6477b7257/" target="_blank">
@@ -30,19 +30,19 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Core Programming Languages
+### Core Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c" alt="Core Programming Languages"/>
 </div>
 
-### 🌐 Web Technologies
+### Web Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies"/>
 </div>
 
-### 🤖 AI/ML & Data Science
+### AI/ML & Data Science
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI/ML Tools"/>
   <br/>
@@ -51,12 +51,12 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </div>
 
-### ⚙️ Frameworks & Databases
+### Frameworks & Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql" alt="Frameworks and Databases"/>
 </div>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,anaconda,arduino" alt="Tools"/>
   <br/>
@@ -65,7 +65,7 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office Suite"/>
 </div>
 
-### 📚 CS Fundamentals & Domains
+### CS Fundamentals
 <div align="center">
   <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Management System"/>
   <img src="https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logo=abstract&logoColor=white" alt="Object Oriented Programming"/>
